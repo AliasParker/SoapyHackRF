@@ -1,0 +1,8 @@
+/Users/mcfly/Documents/GitHub/srf/SoapyHackRF/build/CMakeFiles/HackRFSupport.dir
+/Users/mcfly/Documents/GitHub/srf/SoapyHackRF/build/CMakeFiles/uninstall.dir
+/Users/mcfly/Documents/GitHub/srf/SoapyHackRF/build/CMakeFiles/edit_cache.dir
+/Users/mcfly/Documents/GitHub/srf/SoapyHackRF/build/CMakeFiles/rebuild_cache.dir
+/Users/mcfly/Documents/GitHub/srf/SoapyHackRF/build/CMakeFiles/list_install_components.dir
+/Users/mcfly/Documents/GitHub/srf/SoapyHackRF/build/CMakeFiles/install.dir
+/Users/mcfly/Documents/GitHub/srf/SoapyHackRF/build/CMakeFiles/install/local.dir
+/Users/mcfly/Documents/GitHub/srf/SoapyHackRF/build/CMakeFiles/install/strip.dir
